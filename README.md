@@ -1,4 +1,4 @@
-CARVON SHADOW OS :
+CARBON SHADOW OS :
 
 Carbon Shadow OS is a carbon-aware task scheduler that automatically chooses the cleanest region and time for tasks, reducing carbon emissions without affecting performance.
 
