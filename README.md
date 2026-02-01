@@ -8,6 +8,4 @@ Optimizes task scheduling based on carbon intensity
 
 Shows carbon saved compared to naive scheduling
 
-Interactive chart visualizing carbon intensity per region
 
-Simple, hackathon-ready prototype
